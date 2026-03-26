@@ -1,16 +1,69 @@
-## Hi there 👋
+# 🛡️ Cybersecurity Portfolio
 
-<!--
-**Met4man/Met4man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Breaking, exploiting, and securing systems 🛡️  
+> A collection of CTF writeups, red team techniques, and blue team insights from TryHackMe, Hack The Box & picoCTF.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+- 🎯 Aspiring Cybersecurity Analyst
+- 🔍 Passionate about offensive & defensive security
+- 🧠 Focus: Web Security, Privilege Escalation, Network Analysis,  Forensic Investigation
+
+---
+
+## 🔗 Connect With Me
+- 💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/david-msekena-29bb8b296)
+
+---
+
+## 🧰 Skills & Tools
+- **Languages:** Python, Bash, SQL
+- **Tools:** Burp Suite, Nmap, Wireshark, Metasploit
+- **Concepts:** 
+  - Web Exploitation (XSS, SQLi, SSRF)
+  - Privilege Escalation
+  - Network Security & Traffic Analysis
+
+---
+
+## 📂 CTF Writeups
+
+### 🚀 TryHackMe
+- [Room Name 1](./TryHackMe/room-name-1.md)
+- [Room Name 2](./TryHackMe/room-name-2.md)
+
+---
+
+### 🧠 Hack The Box
+- [Machine Name 1](./HackTheBox/machine-name-1.md)
+- [Machine Name 2](./HackTheBox/machine-name-2.md)
+
+---
+
+### 🧩 picoCTF
+- [Challenge Name 1](./picoCTF/challenge-name-1.md)
+- [Challenge Name 2](./picoCTF/challenge-name-2.md)
+
+---
+
+### 💀 CTFZone
+- [Challenge Name 1](./CTFZone/challenge-name-1.md)
+- [Challenge Name 2](./CTFZone/challenge-name-2.md)
+
+---
+
+## 📊 Learning Progress
+- ✅ Completed multiple CTF challenges
+- 🛠️ Actively improving exploitation & detection skills
+- 🚧 Currently learning: Advanced Tryhackme rooms & enhancing my red team skills.
+
+---
+
+## ⚠️ Disclaimer
+This repository is for educational purposes only. All activities were conducted in controlled environments such as CTF platforms and labs.
+
+---
+
+## ⭐ Support
+If you find this repository useful, consider giving it a star ⭐
