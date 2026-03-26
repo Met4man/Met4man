@@ -17,14 +17,10 @@
 
 ---
 
-##  Skills & Tools
-- **Languages:** Python, Bash, SQL
-- **Tools:** Burp Suite, Nmap, Wireshark, Metasploit
-- **Concepts:** 
-  - Web Exploitation (XSS, SQLi, SSRF)
-  - Privilege Escalation
-  - Network Security & Traffic Analysis
-
+Continue down  |
+               |
+               |
+              \/
 ---
 
 ##  CTF Writeups
