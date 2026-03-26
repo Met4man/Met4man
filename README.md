@@ -12,12 +12,12 @@
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 -  LinkedIn: https://www.linkedin.com/in/david-msekena-29bb8b296
 
 ---
 
-## 🧰 Skills & Tools
+##  Skills & Tools
 - **Languages:** Python, Bash, SQL
 - **Tools:** Burp Suite, Nmap, Wireshark, Metasploit
 - **Concepts:** 
@@ -29,7 +29,7 @@
 
 ##  CTF Writeups
 
-### 🚀 TryHackMe
+###  TryHackMe
 - [Room Name 1](./TryHackMe/room-name-1.md)
 - [Room Name 2](./TryHackMe/room-name-2.md)
 
