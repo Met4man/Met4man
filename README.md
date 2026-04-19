@@ -20,6 +20,7 @@
 ## My writeups
 
 -   https://github.com/Met4man/ctf-writeups.git
+-   https://met4man.gitbook.io/cpl-sanifu_writeups
 
 ## ⚠️ Disclaimer
 This repository is for educational purposes only. All activities were conducted in controlled environments such as CTF platforms and labs.
